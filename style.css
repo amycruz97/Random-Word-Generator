@@ -41,6 +41,7 @@ h3 {
     padding: 1rem;
     animation: blinkBg 2s infinite;
     border: none;
+    outline: none;
 }
 
 @keyframes blinkBg {
